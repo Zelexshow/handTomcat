@@ -8,7 +8,7 @@
     <artifactId>handTomcat</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <java.version>1.8</java.version>
         <apache.commons.version>3.9</apache.commons.version>
         <cglib.version>3.2.10</cglib.version>
